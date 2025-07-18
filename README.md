@@ -26,8 +26,7 @@ Melanoma is a serious form of skin cancer. Early detection is crucial for succes
 
 ## Dataset
 
-The dataset used in this project is the "Melanoma Cancer Dataset" available on Kaggle. It contains images categorized into 'Benign' and 'Malignant' classes.
-
+The dataset used in this project is the "[Melanoma Cancer Dataset](https://www.kaggle.com/datasets/bhaveshmittal/melanoma-cancer-dataset)" available on Kaggle. It contains images categorized into 'Benign' and 'Malignant' classes.
 * **Source:** Kaggle: Melanoma Cancer Dataset (Please ensure you have access to this dataset or download it as instructed in the notebooks).
 
 The notebooks include steps to download and extract this dataset.
